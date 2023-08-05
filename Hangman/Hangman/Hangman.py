@@ -1,4 +1,4 @@
-﻿from random import *
+﻿from random import choice
 
 clothes_list = ["блузка",
 "брюки",
